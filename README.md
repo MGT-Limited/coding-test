@@ -13,6 +13,10 @@
     4. `Delete` todo item
     5. Todo item allowing form submission with two or more photo with type of `png/jpg` only and max size of `3MB`
   
+6. User Interface:
+    1. Neat
+    2. Responsive
+
 ### Submission
 1. Fork this repo to your account
 2. Upload your project on github
